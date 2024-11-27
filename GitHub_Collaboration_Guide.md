@@ -70,4 +70,43 @@ To make changes to a repository on your local machine:
    ```bash
    git commit -m "Your commit message"
 
+## Pushing Changes to GitHub
+
+Once changes have been committed locally, you can push them to the remote repository on GitHub:
+
+1. Use the following command to push the changes:
+    ```bash
+    git push origin main
+    ```
+    Replace `main` with your branch name if you're not working directly on the `main` branch.
+
+2. After pushing, your changes will be visible in the GitHub repository.
+
+---
+
+## Submitting a Pull Request
+
+Pull requests allow you to propose changes to a repository and request that they be reviewed and merged.
+
+1. Navigate to the forked repository on GitHub where your changes are located.
+2. Click on the **Pull Requests** tab at the top of the repository page.
+3. Click the green **New Pull Request** button.
+4. Use the **Compare changes** view to review your changes.
+5. Provide a title and description for your pull request, explaining the purpose of your changes.
+6. Click **Create Pull Request** to submit it for review.
+
+Learn more: [GitHub Pull Request Guide](https://docs.github.com/en/pull-requests)
+
+---
+
+## Additional Resources
+
+Here are some additional resources to help you learn and master Git and GitHub:
+
+- [Git Documentation](https://git-scm.com/doc) – Comprehensive guide to Git's functionality.
+- [GitHub Docs](https://docs.github.com) – Official GitHub documentation.
+- [W3Schools Git Tutorials](https://www.w3schools.com/git) – Beginner-friendly tutorials on Git basics.
+- [Atlassian Git Tutorials](https://www.atlassian.com/git) – Tutorials covering Git commands and workflows.
+- [Pro Git Book](https://git-scm.com/book/en/v2) – A free eBook that explores Git in depth.
+
 
