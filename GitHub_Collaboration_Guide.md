@@ -110,3 +110,121 @@ Here are some additional resources to help you learn and master Git and GitHub:
 - [Pro Git Book](https://git-scm.com/book/en/v2) – A free eBook that explores Git in depth.
 
 
+
+
+# <span style="color:blue;">Commonly Used Functions of GitHub</span>
+
+GitHub provides a variety of functions to manage and collaborate on projects. Here are some of the most commonly used ones explained:
+
+---
+
+## <span style="color:green;">1. Building a Repository</span>
+- **What it means:** A repository (repo) is like a folder that contains your project, including its files and version history.
+- **Purpose:** It serves as a central hub for all your project files, tracking changes made over time.
+
+---
+
+## <span style="color:green;">2. Creating Branches</span>
+- **What it means:** Branches allow you to create a separate version of your project where you can experiment without affecting the main version.
+- **Purpose:** To work on new features, fix bugs, or try out ideas without disturbing the main project.
+
+---
+
+## <span style="color:green;">3. Commit</span>
+- **What it means:** A commit is like saving a snapshot of your project after making changes.
+- **Purpose:** It lets you track and document the specific changes made to files.
+
+---
+
+## <span style="color:green;">4. Push</span>
+- **What it means:** Pushing means uploading your local changes to the remote GitHub repository.
+- **Purpose:** To share your changes with others or keep them stored on GitHub.
+
+---
+
+## <span style="color:green;">5. Pull</span>
+- **What it means:** Pulling means downloading the latest changes from the GitHub repository to your local machine.
+- **Purpose:** To ensure you have the most recent version of the project.
+
+---
+
+## <span style="color:green;">6. Merge</span>
+- **What it means:** Merging combines changes from one branch into another, like integrating a new feature into the main project.
+- **Purpose:** To consolidate work done in separate branches.
+
+---
+
+## <span style="color:green;">7. Rebase</span>
+- **What it means:** Rebasing rewrites the commit history of a branch to make it linear and organized.
+- **Purpose:** To simplify the commit history and apply changes from one branch onto another.
+
+---
+
+# <span style="color:blue;">Commonly Used Terminal Commands for GitHub</span>
+
+Here are some commonly used Linux/Windows commands for GitHub and their explanations:
+
+---
+
+## <span style="color:green;">1. git init</span>
+- **What it means:** Initializes a new Git repository in your project folder.
+- **Purpose:** To start tracking your project's changes with Git.
+
+---
+
+## <span style="color:green;">2. git clone [URL]</span>
+- **What it means:** Downloads an existing repository to your local machine.
+- **Purpose:** To work on an existing project locally.
+
+---
+
+## <span style="color:green;">3. git status</span>
+- **What it means:** Shows the current status of your working directory.
+- **Purpose:** To check for any uncommitted changes or new files.
+
+---
+
+## <span style="color:green;">4. git add [file]</span>
+- **What it means:** Stages a file for commit.
+- **Purpose:** To prepare changes for the next commit.
+
+---
+
+## <span style="color:green;">5. git commit -m "message"</span>
+- **What it means:** Saves changes to the repository with a descriptive message.
+- **Purpose:** To document what changes were made.
+
+---
+
+## <span style="color:green;">6. git push</span>
+- **What it means:** Uploads your commits to the remote repository.
+- **Purpose:** To share your changes with others or save them on GitHub.
+
+---
+
+## <span style="color:green;">7. git pull</span>
+- **What it means:** Downloads changes from the remote repository to your local machine.
+- **Purpose:** To sync your local project with the latest version.
+
+---
+
+## <span style="color:green;">8. git merge [branch]</span>
+- **What it means:** Merges another branch into your current branch.
+- **Purpose:** To integrate changes from different branches.
+
+---
+
+## <span style="color:green;">9. git log</span>
+- **What it means:** Displays the commit history.
+- **Purpose:** To review past commits.
+
+---
+
+## <span style="color:green;">10. git rebase</span>
+- **What it means:** Reapplies commits from one branch onto another.
+- **Purpose:** To organize the commit history in a linear sequence.
+
+---
+
+By using these functions and commands, you can manage projects effectively and collaborate seamlessly on GitHub.
+
