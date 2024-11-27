@@ -110,11 +110,12 @@ Here are some additional resources to help you learn and master Git and GitHub:
 - [Pro Git Book](https://git-scm.com/book/en/v2) – A free eBook that explores Git in depth.
 
 
+# Answers to the Questions
 
 
 # <span style="color:blue;">Commonly Used Functions of GitHub</span>
 
-GitHub provides a variety of functions to manage and collaborate on projects. Here are some of the most commonly used ones explained:
+GitHub provides a variety of functions to manage and collaborate on projects. Below are some of the most commonly used ones explained:
 
 ---
 
@@ -162,7 +163,7 @@ GitHub provides a variety of functions to manage and collaborate on projects. He
 
 # <span style="color:blue;">Commonly Used Terminal Commands for GitHub</span>
 
-Here are some commonly used Linux/Windows commands for GitHub and their explanations:
+Below are some commonly used Linux/Windows commands for GitHub and their explanations:
 
 ---
 
