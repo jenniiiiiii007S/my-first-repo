@@ -58,3 +58,12 @@ Cloning downloads the repository to your local machine for offline work.
    ```bash
    git clone <repository-link>
 
+## Making Changes Locally
+To make changes to a repository on your local machine:
+1. Navigate to the repository folder on your computer.
+2. Open the files using your preferred text editor or IDE (e.g., VSCode, Sublime, or nano).
+3. Make the desired changes to the files.
+4. Add the changed files to the Git staging area using the command:
+   ```bash
+   git add <filename>
+
