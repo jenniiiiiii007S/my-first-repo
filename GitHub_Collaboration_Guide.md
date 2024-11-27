@@ -66,4 +66,8 @@ To make changes to a repository on your local machine:
 4. Add the changed files to the Git staging area using the command:
    ```bash
    git add <filename>
+5. Commit changes with a message:
+   ```bash
+   git commit -m "Your commit message"
+
 
